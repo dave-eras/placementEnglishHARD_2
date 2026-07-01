@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+local_responses.jsonl
+responses.xlsx
+results.xlsx
+__pycache__/
+*.py[cod]
+.env
